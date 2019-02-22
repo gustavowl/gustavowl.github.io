@@ -17,7 +17,7 @@ Plans to study for a master's degree in Quantum Computing.
 * Computer Networks
 
 # Contact & Other Infos # {#contact-and-other}
-* Blog [|ψ⟩ence |φ⟩ction](psiencephiction.wordpress.com)
+* Blog [\|ψ⟩ence \|φ⟩ction](psiencephiction.wordpress.com)
 * E-mail: [gustavowl@lcc.ufrn.br](mailto:gustavowl@lcc.ufrn.br)
 * Github: [github.com/gustavowl](github.com/gustavowl)
 * Lattes: [Gustavo Alves Bezerra](http://lattes.cnpq.br/5221852804691948)
