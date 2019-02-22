@@ -5,8 +5,10 @@ TODO
 - [ ] Add excerpt tag
 - [ ] Add excerpt redirect
 
-## Researches
+## [Researches](/activities/researches.md)
+TODO
 
-## Projects
+## [Projects](/activities/projects.md)
+TODO
 
-## Talks
+## [Talks](/activities/talks.md)
