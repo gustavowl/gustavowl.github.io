@@ -20,9 +20,9 @@ Plans to study for a master's degree in Quantum Computing.
 * Computer Networks
 
 # Contact & Other Infos # {#contact-and-other}
-* Blog: [\|ψ⟩ence \|φ⟩ction](psiencephiction.wordpress.com)
-* E-mail: [gustavowl@lcc.ufrn.br](mailto:gustavowl@lcc.ufrn.br)
-* Github: [github.com/gustavowl](github.com/gustavowl)
-* Lattes: [Gustavo Alves Bezerra](http://lattes.cnpq.br/5221852804691948)
-* LinkedIn: [gustavowl](https://www.linkedin.com/in/gustavowl/)
-* Twitter: [@GustavowlKoruja](https://twitter.com/GustavowlKoruja)
+* Blog: <a href="https://psiencephiction.wordpress.com/" target="_blank">\|ψ⟩ence \|φ⟩ction</a>
+* E-mail: <a href="mailto:gustavowl@lcc.ufrn.br" target="_blank">gustavowl@lcc.ufrn.br</a>
+* Github: <a href="https://github.com/gustavowl/" target="_blank">gustavowl</a>
+* Lattes: <a href="http://lattes.cnpq.br/5221852804691948" target="_blank">Gustavo Alves Bezerra</a>
+* LinkedIn: <a href="https://www.linkedin.com/in/gustavowl/" target="_blank">gustavowl</a>
+* Twitter: <a href="https://twitter.com/GustavowlKoruja" target = "_blank">@GustavowlKoruja</a>
