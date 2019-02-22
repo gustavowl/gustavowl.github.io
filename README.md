@@ -4,6 +4,9 @@
 - [x] edit jekyll-minimal ul
 - [x] Add photo
 - [x] Add link with id to Contact & other info
-- [ ] install ruby to test site locally
-- [ ] update main content
+- [x] install ruby to test site locally
+- [ ] update home content
+- [ ] Get three most recent activities of each topic (for post in site.post ?)
+- [ ] Add excerpt tag
+- [ ] Add excerpt redirect
 - [ ] update lattes
