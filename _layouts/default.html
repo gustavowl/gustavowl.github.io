@@ -20,9 +20,11 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-		<h2><a href="{{ site.baseurl }}{% link about.md %}">About</a></h2>
-		<h2><a href="{{ site.baseurl }}{% link about.md %}">Areas of Interest</a></h2>
-		<h2>Contact & Other Infos</h2>
+		<h2><ul>
+			<li><a href="{{ site.baseurl }}{% link about.md %}">About</a></li>
+			<li><a href="{{ site.baseurl }}{% link about.md %}">Areas of Interest</a></li>
+			<li><a href="{{ site.baseurl }}{% link about.md#contact-and-other %}">Contact & Other Infos</a></li>
+		</ul></h2>
       </header>
 
       <section>
