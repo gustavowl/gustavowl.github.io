@@ -1,4 +1,12 @@
-# Hello Warudo
-A paragraph
+# Recent Activites {#recent-activities}
+TODO
+- [ ] Add content
+- [ ] Get three most recent activities of each topic (for post in site.post ?)
+- [ ] Add excerpt tag
+- [ ] Add excerpt redirect
 
-## Another header
+## Researches
+
+## Projects
+
+## Talks

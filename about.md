@@ -1,4 +1,4 @@
-# About #
+# About # {#about}
 Computer Science undergraduate student at
 [Federal University of Rio Grande do Norte](https://www.ufrn.br/).
 Member of [UFRN's PET-CC](petcc.dimap.ufrn.br)
@@ -7,7 +7,7 @@ Currently in the last undergraduation term.
 Researches on Fault-Tolerant Irregular Network-On-Chip Topologies.
 Plans to study for a master's degree in Quantum Computing.
 
-# Areas of Interest #
+# Areas of Interest # {#areas-of-interest}
 * **Quantum Computing**
 * Quantum Information
 * Quantum Logic

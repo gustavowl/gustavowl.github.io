@@ -15,14 +15,14 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">Gustavo Bezerra (Koruja)</a></h1>
+        <h1><a href="{{ site.baseurl }}{% link index.md %}#recent-activities">Gustavo Bezerra (Koruja)</a></h1>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
 		<h2><ul>
-			<li><a href="{{ site.baseurl }}{% link about.md %}">About</a></li>
-			<li><a href="{{ site.baseurl }}{% link about.md %}">Areas of Interest</a></li>
+			<li><a href="{{ site.baseurl }}{% link about.md %}#about">About</a></li>
+			<li><a href="{{ site.baseurl }}{% link about.md %}#areas-of-interest">Areas of Interest</a></li>
 			<li><a href="{{ site.baseurl }}{% link about.md %}#contact-and-other">Contact & Other Infos</a></li>
 		</ul></h2>
       </header>
