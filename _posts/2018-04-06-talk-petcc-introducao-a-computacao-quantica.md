@@ -3,6 +3,7 @@ layout: post
 title: PET-CC Seminar - ⟨i|ntrodução à Computação Quânt|i⟩ca
 tags: [Talk, PET-CC, Quantum Computing]
 date: 2018-04-06
+excerpt_separator: <!--excerpt-->
 ---
 
 <a href="https://www.petcc.dimap.ufrn.br" target="_blank">UFRN's PET-CC</a> encourages its members to
@@ -12,6 +13,8 @@ The talks are usually announced in the <a href="https://www.facebook.com/petccuf
 PETCC's Faceook Page</a>.
 
 ![Call for talk - Announcement image](/assets/img/talks/2018-04-06-call-for-talk-petcc-introducao-a-computacao-quantica.png)
+
+<!--excerpt-->
 
 The talk was originally advertised with the following summary (translated from portuguese).
 *This week (Friday the 6th), the petian Gustavo (a.k.a Koruja) will talk about Quantum Computing.
