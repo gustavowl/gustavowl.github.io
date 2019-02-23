@@ -4,7 +4,7 @@ title: About
 # About # {#about}
 Computer Science undergraduate student at
 [Federal University of Rio Grande do Norte](https://www.ufrn.br/).
-Member of [UFRN's PET-CC](petcc.dimap.ufrn.br)
+Member of [UFRN's PET-CC](https://www.petcc.dimap.ufrn.br)
 ([Tutorial Education Program](http://portal.mec.gov.br/pet) - Computer Science).
 Currently in the last undergraduation term.
 Researches on Fault-Tolerant Irregular Network-On-Chip Topologies.

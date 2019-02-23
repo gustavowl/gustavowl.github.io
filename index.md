@@ -2,13 +2,13 @@
 title: Gustavowl
 ---
 # Recent Activites {#recent-activities}
-TODO
+Work In Progress
 
 ## [Researches](/activities/researches.md)
-TODO
+Work In Progress
 
 ## [Projects](/activities/projects.md)
-TODO
+Work In Progress
 
 ## [Talks](/activities/talks.md)
-TODO
+Work In Progress
