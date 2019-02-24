@@ -5,8 +5,9 @@
 - [x] Add photo
 - [x] Add link with id to Contact & other info
 - [x] install ruby to test site locally
-- [ ] update home content
-- [ ] Get three most recent activities of each topic (for post in site.post ?)
-- [ ] Add excerpt tag
-- [ ] Add excerpt redirect
+- [x] update home content
+- [x] Get three most recent activities of each topic (for post in site.post ?)
+- [x] Add excerpt tag
+- [x] Add excerpt redirect
+- [ ] Add projects
 - [ ] update lattes
