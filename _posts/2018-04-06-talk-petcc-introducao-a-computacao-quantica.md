@@ -16,7 +16,7 @@ PETCC's Faceook Page</a>.
 
 <!--excerpt-->
 
-The talk was originally advertised with the following summary (translated from portuguese).
+The talk was originally advertised with the following summary (translated from Portuguese).
 *This week (Friday the 6th), the petian Gustavo (a.k.a Koruja) will talk about Quantum Computing.
 The topic is being constantly commented in both academic and business worlds
 (companies such as Google and IBM).

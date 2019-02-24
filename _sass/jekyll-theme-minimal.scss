@@ -162,6 +162,14 @@ strong {
   font-weight:700;
 }
 
+a strong {
+  color:#267CB9;
+}
+
+a:hover strong, a:focus strong {
+  color:#069;
+}
+
 .downloads li + li + li {
   border-right:none;
   width:89px;

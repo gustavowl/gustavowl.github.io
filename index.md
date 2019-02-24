@@ -2,12 +2,11 @@
 title: Gustavowl
 ---
 # Recent Activites {#recent-activities}
-Work In Progress
+<hr>
 
 {% assign max_count = 3 %}
 
 ## [Researches](/activities/researches.md)
-Work In Progress
 
 {% assign count = max_count %}
 <ul>
