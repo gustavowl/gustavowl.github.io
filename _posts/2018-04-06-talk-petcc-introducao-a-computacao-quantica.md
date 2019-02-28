@@ -6,7 +6,7 @@ date: 2018-04-06
 excerpt_separator: <!--excerpt-->
 ---
 
-<a href="https://www.petcc.dimap.ufrn.br" target="_blank">UFRN's PET-CC</a> encourages its members to
+<a href="http://petcc.dimap.ufrn.br" target="_blank">UFRN's PET-CC</a> encourages its members to
 give a lecture per semester on a topic of interest.
 Not uncommonly, the talks cover researches in which the students participate.
 The talks are usually announced in the <a href="https://www.facebook.com/petccufrn/" target="_blank">
