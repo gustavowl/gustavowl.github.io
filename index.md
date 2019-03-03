@@ -35,8 +35,6 @@ title: Gustavowl
 <hr>
 
 ## [Projects](/activities/projects.md)
-Work In Progress
-
 {% assign count = max_count %}
 <ul>
 {% for post in site.posts %}
