@@ -1,8 +1,8 @@
 ---
 layout: post
-title: PET-CC Seminar - Recognition of Occluded and Lateral Faces Using MTCNN, DLIB and Homographies
-tags: [Talk, PET-CC, Computer Vision, Facial Recognition, Recorded]
-date: 2018-11-26
+title: Natal Tech Conference - Yet Another Briefly Introductory Overview OnQuantum Computing 
+tags: [Talk, Quantum Computing, Natal Tech Conference, Google Developers Group, GDG Natal]
+date: 2019-03-16
 excerpt_separator: <!--excerpt-->
 ---
 
