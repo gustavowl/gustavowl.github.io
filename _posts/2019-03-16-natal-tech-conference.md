@@ -21,13 +21,13 @@ This talk was originally announced with the following abstract.
 Therefore, it has been continually stressed its potential to improve computational power
 and to menace information security.
 Such promising potential has attracted the attention of many companies,
-which are fighting for quantum supremacy.
+which are fighting for quantum supremacy.*
 
-Unsurprisingly, the news barely scratch the surface of a study field that has been developed for decades;
+*Unsurprisingly, the news barely scratch the surface of a study field that has been developed for decades;
 lacking information regarding what quantum computers are capable or not to do.
-Thus, practically treating quantum computers as all-mighty magical devices.
+Thus, practically treating quantum computers as all-mighty magical devices.*
 
-In this talk, it will be attempted to briefly introduce the subject,
+*In this talk, it will be attempted to briefly introduce the subject,
 illustrating the power of quantum computing and business initiatives.*
 
 The presentation was **recorded** and will be available online soon.
