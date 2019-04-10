@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Natal Tech Conference - Yet Another Briefly Introductory Overview OnQuantum Computing 
+title: Natal Tech Conference - Yet Another Briefly Introductory Overview On Quantum Computing 
 tags: [Talk, Quantum Computing, Natal Tech Conference, Google Developers Group, GDG Natal]
 date: 2019-03-16
 excerpt_separator: <!--excerpt-->
@@ -30,7 +30,9 @@ Thus, practically treating quantum computers as all-mighty magical devices.*
 *In this talk, it will be attempted to briefly introduce the subject,
 illustrating the power of quantum computing and business initiatives.*
 
-The presentation was **recorded** and will be available online soon.
+Pictures of the event are available on
+<a href="https://photos.app.goo.gl/HBCsxk7C5cZkeCQW9" target="_blank">
+Natal Tech Conference - Google Photos</a>.
 The slides are available for download on
 <a href="{{ site.baseurl }}/assets/slides/2019-03-16-ntc-yet-another-briefly-introductory-overview-on-quantum-computing.pdf" target="_blank">
 2019-03-16-ntc-yet-another-briefly-introductory-overview-on-quantum-computing.pdf</a>.
