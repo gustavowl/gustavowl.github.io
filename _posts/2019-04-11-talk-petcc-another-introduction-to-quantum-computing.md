@@ -35,5 +35,8 @@ The topic is being constantly commented in both academic and business worlds
 The objective is to give a brief introduction, and
 to deconstruct the idea of Quantum Computers as miraculous machines.*
 
-**The slides are available for download on** <a href="{{ site.baseurl }}/assets/slides/2019-04-11-talk-petcc-another-introduction-to-quantum-computing.pdf" target="_blank">
+The talk was **recorded** and it is available on
+<a href="https://youtu.be/ne2viT0yuag" target="_blank">
+**PET-CC's YouTube Channel - Another Introduction to Quantum Computing**</a>.
+The **slides** are available for download on <a href="{{ site.baseurl }}/assets/slides/2019-04-11-talk-petcc-another-introduction-to-quantum-computing.pdf" target="_blank">
 **2019-04-11-talk-petcc-another-introduction-to-quantum-computing.pdf**</a>.
