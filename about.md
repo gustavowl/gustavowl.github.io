@@ -2,13 +2,11 @@
 title: About
 ---
 # About # {#about}
-Computer Science undergraduate student at
+Master of Science student at
+[National Laboratory for Scientific Computing](https://www.lncc.br/).
+Bachelor's degree in Computer Science undergraduate student at
 [Federal University of Rio Grande do Norte](https://www.ufrn.br/).
-Member of <a href="http://petcc.dimap.ufrn.br" target="_blank">UFRN's PET-CC</a>
-([Tutorial Education Program](http://portal.mec.gov.br/pet) - Computer Science).
-Currently in the last undergraduation term.
-Researches on Fault-Tolerant Irregular Network-On-Chip Topologies.
-Plans to study for a master's degree in Quantum Computing.
+Researches on Quantum Computing.
 
 # Areas of Interest # {#areas-of-interest}
 * **Quantum Computing**
@@ -21,7 +19,7 @@ Plans to study for a master's degree in Quantum Computing.
 
 # Contact & Other Infos # {#contact-and-other}
 * Blog: <a href="https://psiencephiction.wordpress.com/" target="_blank">\|ψ⟩ence \|φ⟩ction</a>
-* E-mail: <a href="mailto:gustavowl@lcc.ufrn.br" target="_blank">gustavowl@lcc.ufrn.br</a>
+* E-mail: <a href="mailto:gbezerra@lncc.br" target="_blank">gbezerra@lncc.br</a>
 * Github: <a href="https://github.com/gustavowl/" target="_blank">gustavowl</a>
 * Lattes: <a href="http://lattes.cnpq.br/5221852804691948" target="_blank">Gustavo Alves Bezerra</a>
 * LinkedIn: <a href="https://www.linkedin.com/in/gustavowl/" target="_blank">gustavowl</a>
