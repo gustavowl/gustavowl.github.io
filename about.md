@@ -24,6 +24,8 @@ Bachelor in Computer Science at
 # Contact & Other Infos # {#contact-and-other}
 * E-mail: <a href="mailto:gbezerra@lncc.br" target="_blank">gbezerra@lncc.br</a>
 * ORCiD: <a href="https://orcid.org/0000-0002-6667-4353" target="_blank">0000-0002-6667-4353</a>
+* Google Scholar: <a href="https://scholar.google.com/citations?user=4TsxpDAAAAAJ" targer="_blank">
+	Gustavo Alves Bezerra</a>
 * Lattes: <a href="http://lattes.cnpq.br/5221852804691948" target="_blank">Gustavo Alves Bezerra</a>
 * Blog: <a href="https://psiencephiction.wordpress.com/" target="_blank">\|ψ⟩ence \|φ⟩ction</a>
 * Github: <a href="https://github.com/gustavowl/" target="_blank">gustavowl</a>
