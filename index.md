@@ -31,7 +31,7 @@ title: Gustavowl
 {% endfor %}
 
 </ul>
-[See all researches](/activities/talks.md)
+[See all researches](/activities/researches.md)
 <hr>
 
 ## [Projects](/activities/projects.md)
