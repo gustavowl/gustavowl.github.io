@@ -22,7 +22,7 @@ Bachelor in Computer Science at
 <!--* Computer Networks-->
 
 # Contact & Other Infos # {#contact-and-other}
-* E-mail: <a href="mailto:gbezerra@lncc.br" target="_blank">gbezerra@lncc.br</a>
+* E-mail: <a href="mailto:gbezerra@posgrad.lncc.br" target="_blank">gbezerra@posgrad.lncc.br</a>
 * ORCiD: <a href="https://orcid.org/0000-0002-6667-4353" target="_blank">0000-0002-6667-4353</a>
 * Google Scholar: <a href="https://scholar.google.com/citations?user=4TsxpDAAAAAJ" targer="_blank">
 	Gustavo Alves Bezerra</a>
