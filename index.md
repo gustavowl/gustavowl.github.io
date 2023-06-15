@@ -6,12 +6,12 @@ title: Gustavowl
 
 {% assign max_count = 3 %}
 
-## [Researches](/activities/researches.md)
+## [Papers](/activities/papers.md)
 
 {% assign count = max_count %}
 <ul>
 {% for post in site.posts %}
-	{% if post.tags contains "Research" and count > 0 %}
+	{% if post.tags contains "Paper" and count > 0 %}
 		{% if count < max_count %}
 			<hr>
 		{% endif %}
@@ -31,7 +31,7 @@ title: Gustavowl
 {% endfor %}
 
 </ul>
-[See all researches](/activities/researches.md)
+[See all papers](/activities/papers.md)
 <hr>
 
 ## [Projects](/activities/projects.md)

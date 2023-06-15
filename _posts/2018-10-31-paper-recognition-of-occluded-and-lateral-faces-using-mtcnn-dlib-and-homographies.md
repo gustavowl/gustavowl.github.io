@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recognition of Occluded and Lateral Faces Using MTCNN, DLIB and Homographies
-tags: [Research, Computer Vision, Facial Recognition, SIBGRAPI, Conference]
+tags: [Paper, Computer Vision, Facial Recognition, SIBGRAPI, Conference]
 date: 2018-10-31
 excerpt_separator: <!--excerpt-->
 ---

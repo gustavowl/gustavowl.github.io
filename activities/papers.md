@@ -1,8 +1,8 @@
-# Researches
+# Papers
 
 <p>
 {% for post in site.posts %}
-	{% if post.tags contains "Research" %}
+	{% if post.tags contains "Paper" %}
 		<hr>
 
 		<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>

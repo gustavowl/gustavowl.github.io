@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quantum Walk-based Search Algorithms With Multiple Marked Vertices
-tags: [Research, Quantum Computing, Quantum Algorithm, Quantum Walk, Quantum Search, Graphs, Journal, Physical Review A]
+tags: [Paper, Quantum Computing, Quantum Algorithm, Quantum Walk, Quantum Search, Graphs, Journal, Physical Review A]
 date: 2021-06-01
 excerpt_separator: <!--excerpt-->
 ---

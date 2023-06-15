@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generation of Application Specific Fault Tolerant Irregular NoC Topologies Using Tabu Search
-tags: [Research, Network On Chip, NoC, Irregular Topologies, Application-Specific, Fault-Tolerance, Tabu  Search, SBESC, Conference]
+tags: [Paper, Network On Chip, NoC, Irregular Topologies, Application-Specific, Fault-Tolerance, Tabu  Search, SBESC, Conference]
 date: 2019-10-07
 excerpt_separator: <!--excerpt-->
 ---
