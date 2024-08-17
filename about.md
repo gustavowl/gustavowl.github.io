@@ -3,12 +3,19 @@ title: About
 ---
 # About # {#about}
 Doctorate student at
-[National Laboratory for Scientific Computing](https://www.lncc.br/),
-currently researching on Quantum Computing.
+[National Laboratory for Scientific Computing](https://www.lncc.br/)
+(advisor: [Renato Portugal](https://www.lncc.br/~portugal/)),
+and currently undertaking a Sandwich Doctorate at the
+[University of Latvia](https://www.lu.lv/en/) in collaboration with
+[Andris Ambainis](http://home.lu.lv/~ambainis/).
 Master of Science at
-[National Laboratory for Scientific Computing](https://www.lncc.br/).
+[National Laboratory for Scientific Computing](https://www.lncc.br/)
+(advisor: [Renato Portugal](https://www.lncc.br/~portugal/),
+co-advisor: [Raqueline Santos](https://scholar.google.com/citations?user=LZib3CQAAAAJ&hl=pt-BR&oi=ao)).
 Bachelor in Computer Science at
-[Federal University of Rio Grande do Norte](https://www.ufrn.br/).
+[Federal University of Rio Grande do Norte](https://www.ufrn.br/)
+(advisor: [Monica Pereira](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1882699),
+co-advisor: [Silvia Maia](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2859606)).
 
 # Areas of Interest # {#areas-of-interest}
 * **Quantum Computing**
