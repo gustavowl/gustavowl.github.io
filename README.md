@@ -1,13 +1,8 @@
-# TODO
-- [x] use markdown
-- [x] Add description
-- [x] edit jekyll-minimal ul
-- [x] Add photo
-- [x] Add link with id to Contact & other info
-- [x] install ruby to test site locally
-- [x] update home content
-- [x] Get three most recent activities of each topic (for post in site.post ?)
-- [x] Add excerpt tag
-- [x] Add excerpt redirect
-- [ ] Add projects
-- [ ] update lattes
+# Install
+
+- [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+- [https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll](https://jekyllrb.com/docs/installation/ubuntu/)
+
+# Run
+
+`bundle exec jekyll serve`
